@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93102974.css",
+    "main.js": "/static/js/main.9f82e186.js",
+    "static/media/zoo.png": "/static/media/zoo.172d791e796c63610bfa.png",
+    "static/media/apex.png": "/static/media/apex.b7ece1935e77d914f0e6.png",
+    "static/media/aipng.png": "/static/media/aipng.bb432314e438e83ba51d.png",
+    "static/media/mac.png": "/static/media/mac.7c766ba5f2f83e3a36aa.png",
+    "static/media/sport.png": "/static/media/sport.fc0800a5a3f984cde24e.png",
+    "static/media/qs.png": "/static/media/qs.4c0c886876e0620dd0de.png",
+    "static/media/reunion.jpg": "/static/media/reunion.559849b5f3ddf84c393a.jpg",
+    "static/media/animaux.png": "/static/media/animaux.da50ee8967bcb2d38f67.png",
+    "static/media/resto.png": "/static/media/resto.18b168ac3c40d511e554.png",
+    "static/media/btp.png": "/static/media/btp.5e8c9460f3399dc493a3.png",
+    "static/media/portfolio.png": "/static/media/portfolio.380a090c16484bf48951.png",
+    "static/media/agency-ia.png": "/static/media/agency-ia.fb4a7ccd081bfcc7736f.png",
+    "static/media/user1.png": "/static/media/user1.aeaa4e6e32d1ac748535.png",
+    "static/media/user2.png": "/static/media/user2.3d56a363cad873d9cdca.png",
+    "static/media/user3.png": "/static/media/user3.a657d5e19ba8a38a7055.png",
+    "static/media/user4.png": "/static/media/user4.c983b4e60a71d6a5da17.png",
+    "static/media/versions.svg": "/static/media/versions.4f245c83815ef1bd2fa70e4098f5e70c.svg",
+    "static/media/filetypes.svg": "/static/media/filetypes.1a5131b5e00081f7b17758fcfaaf34c1.svg",
+    "static/media/brandbook.svg": "/static/media/brandbook.366f6385e20d07139b24610b3ebd415a.svg",
+    "static/media/logos.svg": "/static/media/logos.9e6c943d46d01b037ac9718ee90578bb.svg",
+    "static/media/logo.svg": "/static/media/logo.29e38834f30f70e9a91ab753c0246fd3.svg",
+    "static/media/draganddrop.svg": "/static/media/draganddrop.1efbfd286191a926ef47a08af9cfe7cb.svg",
+    "static/media/mediakit.svg": "/static/media/mediakit.15112859e70c55cfa0beb4aaa27fa059.svg",
+    "index.html": "/index.html",
+    "main.93102974.css.map": "/static/css/main.93102974.css.map",
+    "main.9f82e186.js.map": "/static/js/main.9f82e186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93102974.css",
+    "static/js/main.9f82e186.js"
+  ]
+}
